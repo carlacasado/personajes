@@ -1,0 +1,24 @@
+﻿h1{
+  color:#4B3C04   ;
+  font-weight: normal;
+  font-size: 40px;
+  font-family: Times new roman;
+  text-align:center;
+}
+h2{
+  line-height : 40px;
+  color:#7F6815 ;
+  font-weight: normal;
+  font-size: 30px;
+  font-family: Times new roman;
+  text-align:center;
+}
+h3{
+  line-height : 50px;
+  color:#323E48;
+}
+
+
+body {background-color: #DBFCC1 ;}
+
+
