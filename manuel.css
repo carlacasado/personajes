@@ -1,0 +1,19 @@
+﻿h1{
+  color: #306797;
+  font-weight: normal;
+  font-size: 40px;
+  font-family: Times new roman;
+  text-align:center;
+}
+h2{
+  color:#4893D5;
+  font-weight: normal;
+  font-size: 30px;
+  font-family: Times new roman;
+  text-align:center;
+}
+h3{
+  color:#323E48;
+  line-height : 50px;
+}
+body {background-color: #B9EDE9;}
