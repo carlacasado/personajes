@@ -1,0 +1,47 @@
+﻿h1{
+  color:#602B1F   ;
+  font-weight: normal;
+  font-size: 40px;
+  font-family: Times new roman;
+  text-align:center; 
+}
+h2{
+  line-height : 40px;
+  color:#A0665B ; 
+  font-weight: normal;
+  font-size: 30px;
+  font-family: Times new roman;
+  text-align:center;
+}
+li {
+list-style-type: none;
+margin-bottom: 20px;  
+}
+ul {
+  list-style-type: none;
+}
+
+li {
+  float: left;
+  text-align: center;
+  width: 24em;
+  line-height : 100px;
+}
+.boton-personalizado {
+text-decoration:none;
+font-weight: 600;
+font-size: 20px;
+color:#333333;
+padding-top:15px;
+padding-bottom:15px;
+padding-left:40px;
+padding-right:40px;
+background-color:#FFD27D;
+border-color: #d8d8d8;
+border-width: 3px;
+border-style: solid;
+border-radius:35px;
+}
+
+body {background-color: #D6A197 ;}
+ 
